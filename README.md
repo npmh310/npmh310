@@ -1,3 +1,7 @@
+<h1>MY PROFILE </h1>
+<br> <img src="https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/321957290_850168559611153_722672334082481480_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=HXjvG8l2_y8AX-3TXtb&_nc_ht=scontent.fhan14-4.fna&oh=00_AfB65htD8RWh6fB1ZoJ2jwGv2UVHJaTf0zGBy8JdNqOzMw&oe=6460031D" width="200px"/> <br>
+Name: Nguyen Phuoc Minh Hieu <br>
+Study: Software technology in FPT UNIVERSITY <br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/npmh.310/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/npmh.31002/) 
@@ -9,14 +13,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=npmh310&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=npmh310&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=npmh310&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### ✍️ My quote
+<h3>Sống là điều hiếm hoi trên thế gian, nhiều người chỉ đang tồn tại</h3>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=npmh310&icon=0&color=0)](https://visitcount.itsvg.in)
